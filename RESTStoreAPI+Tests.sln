@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RESTStoreAPI", "RESTStoreAPI\RESTStoreAPI.csproj", "{98BD80BA-18DF-41E3-B206-9BD6B4B06338}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{F20A0048-2D10-4A15-A7B3-33382D0A351A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BD80BA-18DF-41E3-B206-9BD6B4B06338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BD80BA-18DF-41E3-B206-9BD6B4B06338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BD80BA-18DF-41E3-B206-9BD6B4B06338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BD80BA-18DF-41E3-B206-9BD6B4B06338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20A0048-2D10-4A15-A7B3-33382D0A351A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20A0048-2D10-4A15-A7B3-33382D0A351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20A0048-2D10-4A15-A7B3-33382D0A351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20A0048-2D10-4A15-A7B3-33382D0A351A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04DE9F50-37F9-4BCF-A899-F3AB2D78E610}
+	EndGlobalSection
+EndGlobal
